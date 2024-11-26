@@ -13,3 +13,5 @@ This project aims to analyze performances of different particpants from differen
 - **Libraries**: Pandas, Matplotlib, Seaborn
 - **Tools**: Jupyter Notebook, Git, GitHub
 
+## DataSet Used
+-[View DataSet](https://www.kaggle.com/datasets/stefanydeoliveira/summer-olympics-medals-1896-2024/data)
